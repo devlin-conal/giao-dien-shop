@@ -1,0 +1,19 @@
+*{
+	box-sizing: border-box;
+}
+header{
+	width: 100%;
+	min-height: 50px;
+	background: #313131;
+}
+div#main-page{
+	width: 1000px;
+	min-height: 500px;
+	background: #eee;
+	margin: 0px auto;
+}
+div#footer-page{
+	width: 100%;
+	background: #ddd;
+	min-height: 100px;
+}
